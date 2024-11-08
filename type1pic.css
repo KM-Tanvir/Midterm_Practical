@@ -5,6 +5,9 @@
     background-color: rgb(88, 192, 218);
 
 }
+.type1:hover{
+    zoom: 101%;
+}
 
 .flex{
     display: flex;
@@ -15,6 +18,7 @@
     display:flex;
     column-gap: 50px;
 }
+
 .box{
     display: box;
     height: auto;
@@ -23,5 +27,7 @@
     padding: 1%;
     text-align: center;
     border-radius: 30px;
-    
+}
+.box:hover{
+    zoom: 101%;
 }

@@ -1,0 +1,9 @@
+.type3{
+
+    height: 150px;
+    width: 150px;
+    padding: 3px;
+    background-color: rgb(119, 66, 66);
+    border-radius: 7px;
+    box-shadow: 5px 10px 15px rgb(143, 96, 96);
+}
