@@ -1,0 +1,12 @@
+.type1{
+
+    border-radius: 20%;
+    padding: 1%;
+    background-color: rgb(88, 192, 218);
+
+}
+
+.flex{
+    display: flex;
+    column-gap: 50px;
+}
